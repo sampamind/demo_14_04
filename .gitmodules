@@ -1,0 +1,3 @@
+[submodule "ro-localization"]
+	path = ro-localization
+	url = git@github.com:sampamind/ro-localization.git
